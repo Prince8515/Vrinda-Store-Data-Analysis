@@ -1,6 +1,8 @@
 Vrinda Store Annual Sales Analysis 2022
 Excel-based sales analysis of Vrinda Store covering 31,000+ orders across 7 e-commerce platforms in India. Built using Pivot Tables, Charts, and an interactive Dashboard with slicers.
+
 📊 Dashboard
+
 <img width="1153" height="468" alt="image" src="https://github.com/user-attachments/assets/29d81559-05a5-4fec-bf4b-5eb20faffcee" />
 
 📁 Dataset
